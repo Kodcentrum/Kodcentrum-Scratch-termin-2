@@ -14,4 +14,4 @@ Vi börjar med att göra så katt spriten följer efter muspekaren med ett beat 
 2. Tryck på **Skapa** på hemsidan
 
 3. Om språket inte är **Svenska**, tryck på **jordklotet** och scrolla ner tills du hittar **Svenska**.
-![Välj språk](/lektion1/img/selectlanguage.png)
+![Välj språk](/Lektion1/img/selectlanguage.png)
